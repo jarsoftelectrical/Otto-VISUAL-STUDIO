@@ -12,16 +12,16 @@ Or if your Otto has Bluetooth connectivity, and your Laptop / Desktop has Blueto
 
 ### How to Install:
 
-Download the PUBLISH folder
-Open the folder and DOUBLE CLICK the setup.exe program
-The installer will download any additional files needed that your PC may not have to run this software
+Download the PUBLISH folder.
+Open the folder and DOUBLE CLICK the setup.exe program.
+The installer will download any additional files needed that your PC may not have to run this software.
 
 
 ### Operating system:
 
-Windows 7
-Windows 8
-Windows 10
+Windows 7.
+Windows 8.
+Windows 10.
 
 
    
